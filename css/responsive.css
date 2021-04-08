@@ -44,7 +44,7 @@
     }
 }
 
-@media(max-width: 321px) {
+@media(max-width: 441px) {
     .subscribe-us-area .subscribe .d-flex{
         flex-direction: column;
         padding: 0rem .5rem;
